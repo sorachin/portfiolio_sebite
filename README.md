@@ -2,11 +2,9 @@
 
 ## 👨‍👩‍👦‍👦  팀원소개 
 
-### 👦 이규진(팀장/Fullstack) : 
+### 👸 김소진 (Fullstack)
 
-### 👸 김소진 (팀원/Fullstack) : 
-
-### 👧 진소라 (팀원/Fullstack) : 
+### 👧 진소라 (Fullstack) 
 
 
 
