@@ -35,7 +35,7 @@ STS
 
 ```bash
 깃 저장소를 로컬에 복사
-git clone https://lab.ssafy.com/s03-final/s03p31a108.git
+git clone https://github.com/sorachin/portfiolio_website.git
 ```
 
 ### Frontend
